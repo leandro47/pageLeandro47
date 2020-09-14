@@ -5,7 +5,7 @@ defined('BASEPATH') or exit('URL inválida.');
     <div class="container">
         <div class="">
             <div class="site-logo text-center py-4">
-                <a href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="50px" alt="logo"></a>
+                <a href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="80px" alt="logo"></a>
             </div>
             <div class="social text-center">
                 <h5 class="text-uppercase">I am waiting for you through my social networks</h5>

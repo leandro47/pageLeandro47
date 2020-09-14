@@ -9,12 +9,12 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12 site-title">
-                    <h3 class="title-text">Hey</h3>
+                    <h3 class="title-text">Hey devs</h3>
                     <h1 class="title-text text-uppercase">I am Leandro</h1>
                     <h4 class="title-text text-uppercase">Web developer</h4>
                     <div class="site-buttons">
                         <div class="d-flex flex-row flex-wrap">
-                            <button type="button" class="btn button secondary-button text-uppercase">Get cv</button>
+                            <a href="<?php echo site_url('start/curriculo') ?>" class="btn button secondary-button text-uppercase">Get cv</a>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="row">
                 <div class="col-lg-6 col-md-12">
                     <div class="about-image">
-                        <img src="<?php echo base_url('assets') ?>/img/about-us.png" alt="About us" class="img-fluid">
+                        <img src="<?php echo base_url('assets/img/about-us.png') ?>" alt="About us" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 about-title">
@@ -51,7 +51,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             I'm self-taught and I love learning new technologies, I am passionate about FPS games and MIBR fan.
                         </p>
                     </div>
-                    <button type="button" class="btn button primary-button text-uppercase">Download cv</button>
+                    <a href="<?php echo site_url('start/curriculo') ?>" class="btn button primary-button text-uppercase">Download cv</a>
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                         <p class="card-text experience-description">
                             (Small business in the fashion segment)
                             image and video editor
-                            Edit images with photoshop and also videos, assist photographer</p>
+                            Edit images with photoshop and also videos, assist photographer.</p>
                         <p class="card-text"><small class="text-muted">From January / 2017 to September / 2017</small></p>
                     </div>
                 </div>
@@ -164,10 +164,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     <div class="card-body">
                         <h5 class="card-title title-text experience-title">MERCEDES-BENZ | MALLON</h5>
                         <p class="card-text experience-description">
-                            (Small business in the fashion segment)
-                            image and video editor
-                            Edit images with photoshop and also videos, assist photographer</p>
-                        <p class="card-text"><small class="text-muted">from May / 2018 to the present moment</small></p>
+                            (Midsize company in the automotive segment)
+                            IT SUPPORT
+                            Support for users using computers and electronics in general, manage email servers, manage network,
+                            WEB developer, ERP support and other Mercedes-Benz systems.</p>
+                        <p class="card-text"><small class="text-muted">From May / 2018 to the present moment</small></p>
                     </div>
                 </div>
             </div>

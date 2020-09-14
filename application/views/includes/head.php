@@ -9,6 +9,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Welcome in my world</title>
+    <link rel="shortcut icon" href="<?php echo base_url('assets/img/favicon.ico') ?>" type="image/x-icon">
+    <link rel="icon" href="<?php echo base_url('assets/img/favicon.ico') ?>" type="image/x-icon">
 
 
     <!--  Bootstrap css file  -->
@@ -33,7 +35,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <header class="header_area">
         <div class="main-menu">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand" href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="70px" alt="logo"></a>
+                <a class="navbar-brand" href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="60px" alt="logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

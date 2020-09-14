@@ -11,5 +11,9 @@ class Start extends CI_Controller {
 		$this->load->view('includes/footer');
 
 	}
+	public function curriculo(){
+		$this->load->helper('download');
+        force_download('assets/doc/curriculo.docx', null);
+	}
+
 }
-?>
