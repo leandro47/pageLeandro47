@@ -102,6 +102,9 @@
 
 
 /* Start Brand Area */ 
+.title-session{
+    font-size: 35px !important;
+}
 
 .site-main .brand-area{
     padding: 1rem 20rem;
@@ -343,6 +346,7 @@ footer.footer-area .social a > i{
 footer.footer-area .social a:hover > i{
     color: var(--primary-color);
 }
+
 
 
 /* End Footer */ 

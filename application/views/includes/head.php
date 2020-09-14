@@ -8,7 +8,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Daily Tuition</title>
+    <title>Welcome in my world</title>
 
 
     <!--  Bootstrap css file  -->
@@ -33,33 +33,27 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <header class="header_area">
         <div class="main-menu">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand" href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" alt="logo"></a>
+                <a class="navbar-brand" href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="70px" alt="logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="mr-auto"></div>
                     <ul class="navbar-nav">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#home">home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">about</a>
+                            <a class="nav-link" href="#aboutme">about</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">services</a>
+                            <a class="nav-link" href="#education">education</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">portfolio</a>
+                            <a class="nav-link" href="#education">Experience</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">pages</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">contact</a>
+                            <a class="nav-link" href="#contact">contact</a>
                         </li>
 
                     </ul>
