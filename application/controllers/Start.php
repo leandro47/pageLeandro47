@@ -7,8 +7,9 @@ class Start extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('includes/head');
-		$this->load->view('landing/index');
+		$this->load->view('landing/page');
 		$this->load->view('includes/footer');
 
 	}
 }
+?>
