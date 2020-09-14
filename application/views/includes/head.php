@@ -44,13 +44,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <a class="nav-link active" href="#home">home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#aboutme">about</a>
+                            <a class="nav-link" href="#aboutme">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#education">education</a>
+                            <a class="nav-link" href="#education">Education</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#education">Experience</a>
+                            <a class="nav-link" href="#experience">Experience</a>
                         </li>
                     </ul>
                 </div>

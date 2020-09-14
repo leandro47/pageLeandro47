@@ -144,11 +144,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
             </div>
         </div>
     </section>
-
     <!-- Experience  -->
-    <section class="about-area" id="aboutme">
+    <section class="about-area" id="experience">
+        <hr>
         <div class="container-fluid">
-            ola experiencie
+            <h1 class="text-uppercase title-text title-session text-center">Experience</h1>
         </div>
     </section>
 
