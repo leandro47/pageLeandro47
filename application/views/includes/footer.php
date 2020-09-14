@@ -9,10 +9,26 @@ defined('BASEPATH') or exit('URL inválida.');
             </div>
             <div class="social text-center">
                 <h5 class="text-uppercase">I am waiting for you through my social networks</h5>
-                <a href="https://www.facebook.com/leandro.silva.5059601" target="_blank"><i class="fab fa-facebook"></i></a>
-                <a href="https://github.com/leandro47" target="_blank"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/leandro-silva-a5b84318b" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a href="https://api.whatsapp.com/send?phone=5547988387536&text=Hello%20dev!" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                <a class="decoration-none" href="https://www.facebook.com/leandro.silva.5059601" target="_blank">
+                    <span style="font-size: 48px; color: #4867AA;">
+                        <i class="fab fa-facebook"></i>
+                    </span>
+                </a>
+                <a href="https://github.com/leandro47" target="_blank">
+                    <span style="font-size: 48px; color: #313131;">
+                        <i class="fab fa-github"></i>
+                    </span>
+                </a>
+                <a href="https://www.linkedin.com/in/leandro-silva-a5b84318b" target="_blank">
+                    <span style="font-size: 48px; color: #0274B3;">
+                        <i class="fab fa-linkedin"></i>
+                    </span>
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=5547988387536&text=Hello%20dev!" target="_blank">
+                    <span style="font-size: 48px; color: #3FD64D;">
+                        <i class="fab fa-whatsapp"></i>
+                    </span>
+                </a>
 
             </div>
             <div class="copyrights text-center">

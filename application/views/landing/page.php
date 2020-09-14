@@ -62,8 +62,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
     <!--  ====================== Start Educatin Area =============================  -->
     <section class="services-area" id="education">
-        <hr>
         <div class="container fluid">
+            <hr>
             <div class="row">
                 <div class="col-lg-12 text-center services-title">
                     <h1 class="text-uppercase title-text">Education</h1>
@@ -149,6 +149,28 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <hr>
         <div class="container-fluid">
             <h1 class="text-uppercase title-text title-session text-center">Experience</h1>
+            <div class="container">
+                <div class="card w-100 mb-4 mycard">
+                    <div class="card-body">
+                        <h5 class="card-title title-text experience-title">CLA RIBEIRO AGENCY</h5>
+                        <p class="card-text experience-description">
+                            (Small business in the fashion segment)
+                            image and video editor
+                            Edit images with photoshop and also videos, assist photographer</p>
+                        <p class="card-text"><small class="text-muted">From January / 2017 to September / 2017</small></p>
+                    </div>
+                </div>
+                <div class="card w-100 mb-4 mycard">
+                    <div class="card-body">
+                        <h5 class="card-title title-text experience-title">MERCEDES-BENZ | MALLON</h5>
+                        <p class="card-text experience-description">
+                            (Small business in the fashion segment)
+                            image and video editor
+                            Edit images with photoshop and also videos, assist photographer</p>
+                        <p class="card-text"><small class="text-muted">from May / 2018 to the present moment</small></p>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 

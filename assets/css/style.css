@@ -353,3 +353,25 @@ footer.footer-area .social a:hover>i {
     -moz-box-shadow: 6px 9px 18px 5px rgba(0, 0, 0, 0.47);
     box-shadow: 6px 9px 18px 5px rgba(0, 0, 0, 0.47);
 }
+
+/* experience  */
+
+.experience-title {
+    font-size: 25px !important;
+}
+
+.experience-description {
+    font-size: 18px !important;
+}
+
+.mycard {
+    -webkit-box-shadow: 9px 15px 25px -13px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 15px 25px -13px rgba(0, 0, 0, 0.75);
+    box-shadow: 9px 15px 25px -13px rgba(0, 0, 0, 0.75);
+}
+
+.mycard:hover {
+    -webkit-box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
+    box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
+}
