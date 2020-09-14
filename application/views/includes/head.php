@@ -52,10 +52,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
                         <li class="nav-item">
                             <a class="nav-link" href="#education">Experience</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#contact">contact</a>
-                        </li>
-
                     </ul>
                 </div>
             </nav>

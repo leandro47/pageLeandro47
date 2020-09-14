@@ -82,7 +82,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 <div class="row">
                     <!-- php  -->
                     <div class="col-lg-4 col-md-6 pb-5 col- pb-5sm-12">
-                        <div class="card shadow p-3 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #4758DD;">
                                     <i class="fab fa-php"></i>
@@ -92,7 +92,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <!-- html 5  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                        <div class="card shadow p-3 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #E34F26;">
                                     <i class="fab fa-html5"></i>
@@ -102,7 +102,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <!-- css  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                        <div class="card shadow p-3 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #3A6DC0;">
                                     <i class="fab fa-css3-alt"></i>
@@ -112,7 +112,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <!-- javascript  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                        <div class="card shadow p-3 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #F7DF1E;">
                                     <i class="fab fa-js"></i>
@@ -122,7 +122,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <!-- bootstrap  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                        <div class="card shadow p-3 pb-1 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #6B439C;">
                                     <i class="fab fa-bootstrap"></i>
@@ -132,7 +132,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <!-- CodeIgniter  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                        <div class="card shadow p-3 bg-white rounded">
+                        <div class="card card-background  p-3 rounded">
                             <div class="card-body text-info text-center">
                                 <span style="font-size: 60px; color: #EE4323;">
                                     <i class="fab fa-free-code-camp"></i>
@@ -145,36 +145,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </div>
     </section>
 
-    <!--  ======================= End Project Area =============================  -->
-
-    <!--  ========================== Subscribe me Area ============================  -->
-    <section class="subscribe-us-area" id="contact">
-        <hr>
-        <div class="container subscribe">
-            <div class="row">
-                <div class="col-lg-12 text-center subscribe-title">
-                    <h4 class="text-uppercase">Get Update From anywhere</h4>
-                    <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
-                        consequuntur.</p>
-                </div>
-            </div>
-            <div class="d-sm-flex justify-content-center">
-                <form class="w-50">
-                    <div class="row d-flex flex-row flex-wrap">
-                        <div class="col input-textbox">
-                            <input type="text" id="txtemail" class="form-control" placeholder="Email">
-                        </div>
-                        <div class="col">
-                            <div class="btn-submit">
-                                <button type="submit" class="btn btn-success float-right">Subscribe</button>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
+    <!-- Experience  -->
+    <section class="about-area" id="aboutme">
+        <div class="container-fluid">
+            ola experiencie
         </div>
     </section>
-    <!--  ========================== End Subscribe me Area ============================  -->
 
+    <!--  ======================= End Project Area =============================  -->
 </main>
 <!--  ======================= End Main Area ================================ -->
