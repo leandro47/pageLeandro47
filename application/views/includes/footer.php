@@ -8,7 +8,7 @@ defined('BASEPATH') or exit('URL inválida.');
                 <a href="#"><img src="<?php echo base_url('assets') ?>/img/logo.png" height="80px" alt="logo"></a>
             </div>
             <div class="social text-center">
-                <h5 class="text-uppercase">I am waiting for you through my social networks</h5>
+                <h5 class="text-uppercase font-mobile">I am waiting for you through my social networks</h5>
                 <a class="decoration-none" href="https://www.facebook.com/leandro.silva.5059601" target="_blank">
                     <span style="font-size: 48px; color: #4867AA;">
                         <i class="fab fa-facebook"></i>
@@ -32,11 +32,11 @@ defined('BASEPATH') or exit('URL inválida.');
 
             </div>
             <div class="copyrights text-center">
-                <p class="para">
+                <p class="para font-mobile">
                     <span>&copy; <script>
                         document.write(new Date().getFullYear())
                         </script></span>
-                    <a href="http://github.com/leandro47" target="_blank" rel="noopener">
+                    <a class="font-mobile" href="http://github.com/leandro47" target="_blank" rel="noopener">
                         Leandro Silva
                         <small>
                             <i class="nes-icon is-small heart"></i>

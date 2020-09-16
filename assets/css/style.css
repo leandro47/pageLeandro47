@@ -344,7 +344,6 @@ footer.footer-area .social a:hover>i {
 }
 
 .card-background:hover {
-    border-color: ;
     -webkit-box-shadow: 6px 9px 18px 5px rgba(0, 0, 0, 0.47);
     -moz-box-shadow: 6px 9px 18px 5px rgba(0, 0, 0, 0.47);
     box-shadow: 6px 9px 18px 5px rgba(0, 0, 0, 0.47);
@@ -372,8 +371,9 @@ footer.footer-area .social a:hover>i {
     box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
 }
 
-@media screen and (max-width: 900px){
-    .title-text{
-        
+@media screen and (max-width: 900px) {
+    .font-mobile {
+        font-family: sans-serif !important;
+        font-size: 30px;
     }
 }

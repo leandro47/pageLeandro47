@@ -43,16 +43,16 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     <div class="mr-auto"></div>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#home">home</a>
+                            <a class="nav-link active font-mobile" href="#home">home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#aboutme">About</a>
+                            <a class="nav-link font-mobile" href="#aboutme">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#education">Education</a>
+                            <a class="nav-link font-mobile" href="#education">Education</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#experience">Experience</a>
+                            <a class="nav-link font-mobile" href="#experience">Experience</a>
                         </li>
                     </ul>
                 </div>
