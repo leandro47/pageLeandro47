@@ -5,7 +5,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <main class="site-main">
 
     <!--  ======================= Start Banner Area =======================  -->
-    <section class="site-banner" id="home">
+    <section id="home">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12 site-title">

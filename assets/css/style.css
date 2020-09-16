@@ -42,10 +42,6 @@
 
 /* Banner Area */
 
-.site-main .site-banner {
-    background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
-}
-
 .site-main .site-banner .site-title h3 {
     padding-top: 35%;
     font-weight: 500;
@@ -374,4 +370,10 @@ footer.footer-area .social a:hover>i {
     -webkit-box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
     box-shadow: 9px 15px 66px -6px rgba(0, 0, 0, 0.75);
+}
+
+@media screen and (max-width: 900px){
+    .title-text{
+        
+    }
 }

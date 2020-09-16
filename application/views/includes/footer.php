@@ -34,9 +34,14 @@ defined('BASEPATH') or exit('URL inválida.');
             <div class="copyrights text-center">
                 <p class="para">
                     <span>&copy; <script>
-                            document.write(new Date().getFullYear())
+                        document.write(new Date().getFullYear())
                         </script></span>
-                    <a href="http://github.com/leandro47" target="_blank" rel="noopener"> Leandro Silva <small> <i class="nes-icon is-small heart"></i></small></a>
+                    <a href="http://github.com/leandro47" target="_blank" rel="noopener">
+                        Leandro Silva
+                        <small>
+                            <i class="nes-icon is-small heart"></i>
+                        </small>
+                    </a>
                 </p>
             </div>
         </div>
